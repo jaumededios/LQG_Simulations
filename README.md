@@ -2,7 +2,12 @@
 
 Here you will find some of my simulations of Liouville Quantum gravity and Eden models on it.
 
-If you go to the 'Grid Models' folder you will find some simulations of unit balls for LQG in a torus, some DLA aggregation processes... this is part of my Master thesis, so I will update my progress from time to time!
+If you go to the 'Grid Models' folder you will find five notebooks:
+
+* `LQG.ipynb` implements and does a basic test for the GFF and LQG on a toroidal latticce. This was then ported to a library that can be found on `LQG_Simulations/lib`
+* `DLA_Eclidean.ipynb` implements a DLA in the euclidean setting
+* `FPP_0DBM.ipynb` implements an exponential First Passage Percolation / Eden Model / ODBM discrete model on a Lattice
+* `DLA_in_LQG.ipynb` and `EDEN_in_LQG.ipynb`implement the modifications of the previous two algorithms in the LQG setting, as explained in section 5 of the master's thesis.
 
 ## Some examples of pictures
 
