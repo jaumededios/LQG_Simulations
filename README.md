@@ -1,6 +1,6 @@
-# Simulations of Liouville Quantum Gravity
+# Simulations of Quantum Loewner Evolution
 
-Here you will find some of my simulations of Liouville Quantum gravity and Eden models on it.
+Here you will find some of my simulations of Quantum Loewner Evolution (originally described in [https://arxiv.org/abs/1312.5745], but using the simulation method described in my master's thesis)
 
 If you go to the 'Grid Models' folder you will find five notebooks:
 
@@ -29,4 +29,6 @@ This is an animation of an evolution of an LQG ball as gamma increases. To smoot
 Zoom-in to a DLA cluster  in the euclidean plane with 500,000 elements.  At the moment I'm thinking about the implementation a more efficient algorithm to simulate DLA clusters on a LQG using a free boundary Elliptic PDE 
 
 ![DLA zoom-in](https://github.com/jaumededios/LQG_Simulations/blob/master/Selected%20Media/DLA_Zoom.png)
+
+
 
